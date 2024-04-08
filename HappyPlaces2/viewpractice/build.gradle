@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.test.happyplaces'
+    namespace 'com.test.contentprovider'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.test.happyplaces"
+        applicationId "com.test.contentprovider"
         minSdk 26
         targetSdk 33
         versionCode 1
